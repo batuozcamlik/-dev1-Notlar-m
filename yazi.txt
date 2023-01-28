@@ -1,0 +1,21 @@
+`ls` → İçerisinde bulunduğumuz kodları listeler
+
+`pwd` → Nerede olduğunuzu gösterir
+
+`cd “gitmek istedigin klasör adı”` → Başka bir klasörün içine girmeyi sağlar
+
+`cd ..` → Bir önceki klasöre geri git demek
+
+`clear` → Ekranı temizler
+
+`mkdir ”klasör adı”` → Klasör oluşturmayı sağlar
+
+`touch “text dosya adı”.txt` → Metin dosyası oluşturur
+
+`rm “text dosya adı”.txt` → text dosyasını siler
+
+`rm -rf “Klasör adı”` → Klasörü siler
+
+`git` → Git ‘ in yardım dökümantasyonu gözükür
+
+`git version` → Git ‘in versiyonu gözükür
